@@ -1,28 +1,28 @@
 ---
 layout: home
  
-title: 前端面试题
-titleTemplate: 前端面试题宝典
+title: Web安全
+titleTemplate: Web安全
  
 hero:
-  name: 前端面试题
-  text: 八股文
-  tagline: 全面搜集
+  name: Web安全
+  text: 知识体系
+  tagline: 从浅入深
   image:
-    src: /interview-logo.webp
+    src: /logo.webp
     alt: interview
   actions:
     - theme: brand
       text: 开始
-      link: /web/introduction
+      link: /web/index
  
 features:
   - icon: 💡
-    title: 持续更新
-    details: 常见前端面试题整理。。。
+    title: 机密性
+    details: 保护数据内容不被泄露
   - icon: 📦
-    title: 扫清盲区
-    details: 系统化深入知识点，构建知识体系
+    title: 完整性
+    details: 保护数据内容是完整的，没有被篡改
   - icon: 🛠️
-    title: 复习稳固
-    details: 多复习知识点，巩固基础知识内容。
+    title: 可用性
+    details: 保护资源是“随需而得”
