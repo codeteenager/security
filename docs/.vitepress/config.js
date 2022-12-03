@@ -41,6 +41,26 @@ module.exports = {
                             text: "CSRF攻击",
                             link: "/web/csrf",
                         },
+                        {
+                            text: "点击劫持",
+                            link: "/web/click-jacking",
+                        },
+                        {
+                            text: "传输安全",
+                            link: "/web/https",
+                        },
+                        {
+                            text: "密码安全",
+                            link: "/web/password",
+                        },
+                        {
+                            text: "sql注入",
+                            link: "/web/sql",
+                        },
+                        {
+                            text: "上传",
+                            link: "/web/upload",
+                        },
                     ],
                 }
             ],
