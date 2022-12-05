@@ -61,6 +61,10 @@ module.exports = {
                             text: "上传",
                             link: "/web/upload",
                         },
+                        {
+                            text: "Web安全开发规范手册",
+                            link: "/web/standard",
+                        },
                     ],
                 }
             ],
