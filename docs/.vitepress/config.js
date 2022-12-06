@@ -14,6 +14,10 @@ module.exports = {
             {
                 text: 'Web安全',
                 link: "/web/index"
+            },
+            {
+                text: 'Android安全',
+                link: "/android/index"
             }
         ],
         outlineTitle: '在本页面',
@@ -64,6 +68,18 @@ module.exports = {
                         {
                             text: "Web安全开发规范手册",
                             link: "/web/standard",
+                        },
+                    ],
+                }
+            ],
+            "/android/": [
+
+                {
+                    text: "基础",
+                    items: [
+                        {
+                            text: "Android安全开发规范手册",
+                            link: "/android/index",
                         },
                     ],
                 }
